@@ -238,4 +238,4 @@ This repository serves as the official landing page for Age of Empires II: Defin
 **Get the most recent version of Age of Empires II: Definitive Edition today!**
 
 ---
-**Last updated:** 2026-10-13 22:09:13 UTC
+**Last updated:** 2026-10-14 01:30:38 UTC
